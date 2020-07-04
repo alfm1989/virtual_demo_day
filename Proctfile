@@ -1,1 +1,1 @@
-web:gunicorn virtual_demo_day.app:app
+web:gunicorn app:app
